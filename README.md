@@ -2,6 +2,7 @@
 Instances for the Envy Free Pricing Problem with Single-Minded Consumers and Limited Supply.
 
 We have the following parameters:
+
 n = number of products
 
 m = number of clients  
